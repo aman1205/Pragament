@@ -1,6 +1,6 @@
 # Translate API with Google Translate (Node.js)
 
-This Node.js project demonstrates how to integrate Google Translate API to perform text translation.
+This Node.js project with typescript demonstrates how to integrate Google Translate API to perform text translation.
 
 ## Prerequisites
 
@@ -16,7 +16,7 @@ Before running the project, make sure you have the following:
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/your-username/translate-api-node.git
+   git clonegit@github.com:aman1205/Pragament.git
    cd pragament
 
 Give request like http://localhost:3000/api/translate?query=खोजो&source_language=en&destination_language=it
